@@ -1,0 +1,67 @@
+#container{
+	width: 980px;
+	height: auto;
+	margin: 0 auto;
+	background: #fff;
+	padding-top: 50px;
+}
+
+#header{
+	width: 980px;
+	height: 152px;
+	margin-bottom: 20px;
+	background: red;
+		text-align: center;
+}
+
+#warning_msg{
+	color:pink;
+}
+
+#success_msg{
+	color:green;
+}
+
+#error_msg{
+	color:red;
+}
+
+#body{
+	background: #fafba4;
+	width: 750px;
+	float: left;
+
+}
+
+#sidebar{
+	background: green;
+	width: 230px;
+	float: right;
+	text-align: center;
+
+}
+
+#footer{
+	clear: both;
+	width: 980px;
+	height: 50px;
+	margin-top: 20px;
+	background: grey;
+	text-align: center;
+
+}
+
+.zabiegi{
+	background-color: white;
+}
+
+#outer_prog_bar{
+	width:90%;
+	height:25px;
+	border:solid 1px #000;
+}
+#inner_prog_bar{
+	height:25px;
+	border-right:solid 1px #000;
+	background:red;
+}
